@@ -1,0 +1,5 @@
+Name: Apan Qasem
+Education: BA, Ohio Wesleyan University; MS, Florida State University; PhD, Rice University
+Research Interests: Compilers, Architecture, GPU Computing, Machine Learning
+Office: CMAL 307A, 307D.2
+Webpage: http://cs.txstate.edu/~aq10
